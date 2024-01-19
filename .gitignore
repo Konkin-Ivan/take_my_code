@@ -1,0 +1,7 @@
+.idea/
+web/vendor
+web/node_modules
+web/public/assets/*.map
+database
+tags
+.phpunit.result.cache
